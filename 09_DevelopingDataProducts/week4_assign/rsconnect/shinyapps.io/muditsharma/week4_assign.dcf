@@ -1,0 +1,13 @@
+name: week4_assign
+title: week4_assign
+username:
+account: muditsharma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 211049
+bundleId: 968732
+url: https://muditsharma.shinyapps.io/week4_assign/
+when: 1504645949.14275
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ppt.html|ppt.rmd
